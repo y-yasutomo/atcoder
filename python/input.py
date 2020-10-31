@@ -40,6 +40,7 @@ print(a,b,c,sep=" ")
 
 #ABC056A
 a,b = input().split()
+<<<<<<< HEAD
 print("H" if (a=="H" and b=="H") or (a=="D" and b=="D") else "D")
 
 #ABC110A
@@ -177,3 +178,6 @@ print(ans)
     
 
 
+=======
+print("H" if (a=="H" and b=="H") or (a=="D" and b=="H") else "D")
+>>>>>>> 7d32712ebbb79fd260e328954486cb68bca5c7c1
