@@ -11,7 +11,7 @@ int main() {
  string s ;
  cin >> s ;
  int n ;
- cin >> n ;
+ cin >> n ; 
  rep(i,n){
      int l,r ;
      cin >>  l >> r ;
